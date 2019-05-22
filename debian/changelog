@@ -1,0 +1,11 @@
+imutils (0.5.2-1ed1) UNRELEASED; urgency=medium
+
+  * pull in fix_transform and webcam_readwait
+
+ -- Edward Swarthout <ed.swarthout@nxp.com>  Mon, 20 May 2019 20:21:59 -0500
+
+imutils (0.5.2-1) unstable; urgency=medium
+
+  * Initial release
+
+ -- Edward Swarthout <ed.swarthout@nxp.com>  Mon, 20 May 2019 10:00:00 -0300
